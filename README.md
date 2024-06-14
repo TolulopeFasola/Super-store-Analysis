@@ -16,9 +16,13 @@ This interactive dashboard will answer some important business questions. This i
 - Power BI : Data Visualization
 
 # Insights
-California is the state with the highest revenue, order, profit, and customer.
-The highest profit is generated from the copiers sub-category. While the highest revenue was from the chairs sub-category.
-The West Region  generated the highest revenue, profits, orders and customers out of the the four regions.
-Technology category has the maximum profits, revenue. However, has the least order.
-From the KPI’S, In 2018, there was a shortfall in revenue and customers compared to that of 2017. While the target for total profit and orders were met.
-In the year 2019 and 2020, the goals for revenue, profit, orders, customers were met.
+- California is the state with the highest revenue, order, profit, and customer.
+- The highest profit is generated from the copiers sub-category. While the highest revenue was from the chairs sub-category.
+- The West Region  generated the highest revenue, profits, orders and customers out of the the four regions.
+- Technology category has the maximum profits, revenue. However, has the least order.
+- From the KPI’S, In 2018, there was a shortfall in revenue and customers compared to that of 2017. While the target for total profit and orders were met.
+- In the year 2019 and 2020, the goals for revenue, profit, orders, customers were met.
+  
+# Conclusion
+
+Conclusively, the analysis highlights California’s dominance in key performance metrics and the significant contributions of specific sub-categories like copiers and chairs. The West Region leads in regional performance, and the Technology category, despite its lower order volume, excels in revenue and profit. The yearly analysis shows a recovery and successful achievement of targets in 2019 and 2020 after a shortfall in 2018.
