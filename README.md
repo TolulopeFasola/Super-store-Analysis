@@ -1,7 +1,7 @@
 # Super-store-Analysis
 
 ## Project Overview
-This interactive dashboard will answer some important business questions. This interactive dashboard was built to answer some important business questions on sales and profit-related metrics. For this project, I utilized Power BI to clean, analyze and visualize the data set. The project aims to provide actionable insights and facilitate decision-making through a series of interactive dashboards and visualizations. [Click Here](https://app.powerbi.com/view?r=eyJrIjoiODNkZmU5ZTAtMTkzYi00NDFhLTgxOGItYTZjNWNiZTgwYWQ0IiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9) to view interactive dashboard.
+This interactive dashboard will answer some important business questions. This interactive dashboard was built to answer some important business questions on sales and profit-related metrics. For this project, I utilized Power BI to clean, analyze and visualize the dataset. The project aims to provide actionable insights and facilitate decision-making through a series of interactive dashboards and visualizations. [Click Here](https://app.powerbi.com/view?r=eyJrIjoiODNkZmU5ZTAtMTkzYi00NDFhLTgxOGItYTZjNWNiZTgwYWQ0IiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9) to view interactive dashboard.
 
 ## Reports and Visualization
 
